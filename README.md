@@ -1,5 +1,8 @@
+![Masterhead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOrSzlBUNtNTA4vnr9nBGoz3WhCE_3fOHVIQ&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Pavan Kamthane</h1>
 <h3 align="center">A passionate full stack website developer from India</h3>
+
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavan-kamthane&label=Profile%20views&color=0e75b6&style=flat" alt="pavan-kamthane" /> </p>
 
