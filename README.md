@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavan-kamthane&label=Profile%20views&color=0e75b6&style=flat" alt="pavan-kamthane" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavan-kamthane" alt="pavan-kamthane" /></a> </p>
+<!-- <p align="left"> <a width="300px" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavan-kamthane" alt="pavan-kamthane" /></a> </p> -->
 
 - 🌱 I’m currently learning **DSA in Java.**
 
