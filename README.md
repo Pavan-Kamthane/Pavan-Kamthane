@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **DSA in Java.**
 
-- 👨‍💻 All of my projects are available at [https://pavan-kamthane-portfolio.web.app/](https://pavan-kamthane-portfolio.web.app/)
+<!-- - 👨‍💻 All of my projects are available at [https://pavan-kamthane-portfolio.web.app/](https://pavan-kamthane-portfolio.web.app/) -->
 
 - 💬 Ask me about **Html,css,javascript,wordpress,php,c++,java,etc**
 
